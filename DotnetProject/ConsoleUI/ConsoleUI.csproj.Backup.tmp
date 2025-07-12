@@ -1,0 +1,116 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\ConsoleUI.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\ConsoleUI.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net9.0\ConsoleUI.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net9.0\ConsoleUI.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net9.0\ConsoleUI.deps.json" />
+    <Content Include="bin\Debug\net9.0\ConsoleUI.runtimeconfig.json" />
+    <Content Include="obj\ConsoleUI.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net9.0\ConsoleUI.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net9.0\ConsoleUI.sourcelink.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net9.0\Azure.Core.dll" />
+    <None Include="bin\Debug\net9.0\Azure.Identity.dll" />
+    <None Include="bin\Debug\net9.0\Business.dll" />
+    <None Include="bin\Debug\net9.0\Business.pdb" />
+    <None Include="bin\Debug\net9.0\ConsoleUI.dll" />
+    <None Include="bin\Debug\net9.0\ConsoleUI.exe" />
+    <None Include="bin\Debug\net9.0\ConsoleUI.pdb" />
+    <None Include="bin\Debug\net9.0\Core.dll" />
+    <None Include="bin\Debug\net9.0\Core.pdb" />
+    <None Include="bin\Debug\net9.0\DataAccess.dll" />
+    <None Include="bin\Debug\net9.0\DataAccess.pdb" />
+    <None Include="bin\Debug\net9.0\Entities.dll" />
+    <None Include="bin\Debug\net9.0\Entities.pdb" />
+    <None Include="bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Data.SqlClient.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Extensions.Logging.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Extensions.Options.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Identity.Client.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.SqlServer.Server.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll" />
+    <None Include="bin\Debug\net9.0\MySqlConnector.dll" />
+    <None Include="bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll" />
+    <None Include="bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll" />
+    <None Include="bin\Debug\net9.0\System.ClientModel.dll" />
+    <None Include="bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll" />
+    <None Include="bin\Debug\net9.0\System.Drawing.Common.dll" />
+    <None Include="bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll" />
+    <None Include="bin\Debug\net9.0\System.Memory.Data.dll" />
+    <None Include="bin\Debug\net9.0\System.Runtime.Caching.dll" />
+    <None Include="bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll" />
+    <None Include="bin\Debug\net9.0\System.Security.Permissions.dll" />
+    <None Include="bin\Debug\net9.0\System.Windows.Extensions.dll" />
+    <None Include="ConsoleUI.csproj" />
+    <None Include="obj\ConsoleUI.csproj.nuget.g.props" />
+    <None Include="obj\ConsoleUI.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net8.0\ConsoleUI.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleUI.assets.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net9.0\apphost.exe" />
+    <None Include="obj\Debug\net9.0\ConsoleUI.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net9.0\ConsoleUI.assets.cache" />
+    <None Include="obj\Debug\net9.0\ConsoleUI.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net9.0\ConsoleUI.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net9.0\ConsoleUI.csproj.Up2Date" />
+    <None Include="obj\Debug\net9.0\ConsoleUI.dll" />
+    <None Include="obj\Debug\net9.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net9.0\ConsoleUI.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net9.0\ConsoleUI.pdb" />
+    <None Include="obj\Debug\net9.0\refint\ConsoleUI.dll" />
+    <None Include="obj\Debug\net9.0\ref\ConsoleUI.dll" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net8.0\" />
+    <Folder Include="obj\Debug\net8.0\refint\" />
+    <Folder Include="obj\Debug\net8.0\ref\" />
+  </ItemGroup>
+
+</Project>
