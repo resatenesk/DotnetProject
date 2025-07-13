@@ -266,3 +266,9 @@ C:\Users\kurtu\OneDrive\Masaüstü\DotnetProject\DotnetProject\WebAPI\obj\Debug\
 C:\Users\kurtu\OneDrive\Masaüstü\DotnetProject\DotnetProject\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\kurtu\OneDrive\Masaüstü\DotnetProject\DotnetProject\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
 C:\Users\kurtu\OneDrive\Masaüstü\DotnetProject\DotnetProject\WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kurtu\OneDrive\Masaüstü\DotnetProject\DotnetProject\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
+C:\Users\kurtu\OneDrive\Masaüstü\DotnetProject\DotnetProject\WebAPI\bin\Debug\net8.0\Autofac.dll
+C:\Users\kurtu\OneDrive\Masaüstü\DotnetProject\DotnetProject\WebAPI\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\kurtu\OneDrive\Masaüstü\DotnetProject\DotnetProject\WebAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\kurtu\OneDrive\Masaüstü\DotnetProject\DotnetProject\WebAPI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\kurtu\OneDrive\Masaüstü\DotnetProject\DotnetProject\WebAPI\bin\Debug\net8.0\FluentValidation.dll

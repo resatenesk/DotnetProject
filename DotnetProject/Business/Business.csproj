@@ -1,6 +1,27 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
+    <Compile Remove="Constants\NewFolder1\**" />
+    <Compile Remove="Constants\NewFolder2\**" />
+    <Compile Remove="Constants\NewFolder\**" />
+    <Compile Remove="NewFolder\**" />
+    <EmbeddedResource Remove="Constants\NewFolder1\**" />
+    <EmbeddedResource Remove="Constants\NewFolder2\**" />
+    <EmbeddedResource Remove="Constants\NewFolder\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
+    <None Remove="Constants\NewFolder1\**" />
+    <None Remove="Constants\NewFolder2\**" />
+    <None Remove="Constants\NewFolder\**" />
+    <None Remove="NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="8.3.0" />
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="7.1.0" />
+    <PackageReference Include="FluentValidation" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Entities\Entities.csproj" />
     <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
     <ProjectReference Include="..\Core\Core.csproj" />
