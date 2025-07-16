@@ -2448,11 +2448,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kurtu\\OneDrive\\Masaüstü\\DotnetProject\\DotnetProject\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\kurtu\\Desktop\\DotnetProject\\DotnetProject\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\kurtu\\OneDrive\\Masaüstü\\DotnetProject\\DotnetProject\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\kurtu\\Desktop\\DotnetProject\\DotnetProject\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\kurtu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kurtu\\OneDrive\\Masaüstü\\DotnetProject\\DotnetProject\\Core\\obj\\",
+      "outputPath": "C:\\Users\\kurtu\\Desktop\\DotnetProject\\DotnetProject\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

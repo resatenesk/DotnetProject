@@ -9,20 +9,7 @@ class Program
 {
     static void Main()
     {
-        ProductManager productManager = new ProductManager(new EFProductDal());
-        var result = productManager.GetProductDetails();
-        if (result.Success)
-        {
-            foreach (var product in result.Data)
-            {
-                Console.WriteLine(product.ProductName + "/" + product.CategoryName);
-            }
-
-        }
-        else
-        {
-            Console.WriteLine(result.Message);
-        }
+       
 
 
     }
