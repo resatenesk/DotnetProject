@@ -156,3 +156,6 @@ C:\Users\kurtu\Desktop\DotnetProject\DotnetProject\ConsoleUI\bin\Debug\net8.0\Co
 C:\Users\kurtu\Desktop\DotnetProject\DotnetProject\ConsoleUI\obj\Debug\net8.0\ConsoleUI.csproj.Up2Date
 C:\Users\kurtu\Desktop\DotnetProject\DotnetProject\ConsoleUI\obj\Debug\net8.0\ConsoleUI.genruntimeconfig.cache
 C:\Users\kurtu\Desktop\DotnetProject\DotnetProject\ConsoleUI\obj\Debug\net8.0\ref\ConsoleUI.dll
+C:\Users\kurtu\Desktop\DotnetProject\DotnetProject\ConsoleUI\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\kurtu\Desktop\DotnetProject\DotnetProject\ConsoleUI\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\kurtu\Desktop\DotnetProject\DotnetProject\ConsoleUI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll

@@ -1,6 +1,6 @@
 using System.Data;
 using System.Linq.Expressions;
-using Core.Entities;
+using Core.Entities.Abstract;
 using Microsoft.EntityFrameworkCore;
 
 namespace Core.DataAccess.EntityFramework
